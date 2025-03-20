@@ -14,7 +14,9 @@ Outputs the results in a user-friendly format.
 Example Output
 
 Enter a whole number: 145
+
 145 is a Peterson number.
+
 145 is not a Magnanimous number.
 
 Future Improvements
